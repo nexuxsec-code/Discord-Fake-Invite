@@ -20,3 +20,4 @@ Abra o arquivo `index.html` diretamente no navegador (duplo clique) para visuali
 - Nome do servidor, contadores e textos: procure pelas tags `<h1 class="invite-title">`, `#onlineCount` e `#totalCount` dentro do `index.html`.
 - Cores e estilo: todas as variáveis de cor estão no bloco `:root` no topo do `<style>`.
 - Logo: substitua o arquivo `assets/pureblox-logo.png` por outra imagem com o mesmo nome, ou atualize o caminho na tag `<img>` do avatar.
+- Altere o endereço para usa webhook do discord nas linhas de index.html
